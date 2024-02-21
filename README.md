@@ -1,4 +1,4 @@
-# Result of CLTV Estimation study with BG/NBD and Gamma-Gamma
+# Result of CLTV estimation study with BG/NBD and Gamma-Gamma
 
 Our recommendations to the marketing department for our A Segment customers:
 
